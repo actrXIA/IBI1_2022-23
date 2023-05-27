@@ -1,0 +1,23 @@
+These are the input of my program：
+Seq: 
+> ACE2_CAT (Q56H28) 
+> ACE2_HUMAN (Q9BYF1)
+Alignment Matrix: BLOSUM62
+Alignment Score: 3717
+Identical Percentage: 85.21739130434783
+
+Seq: 
+> ACE2_HUMAN (Q9BYF1)
+>ACE2_MOUSE (Q8R0I0) 
+Alignment Matrix: BLOSUM62
+Alignment Score: 3579
+Identical Percentage: 82.11180124223603
+
+Seq: 
+> ACE2_CAT (Q56H28) 
+>ACE2_MOUSE (Q8R0I0) 
+Alignment Matrix: BLOSUM62
+Alignment Score: 3592
+Identical Percentage: 81.73913043478261
+
+Cats and human have the highest identical percentages.Meaning that they are more closely related in the three.
